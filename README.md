@@ -49,13 +49,13 @@
 ### 📊 **Stats & Activity**
 
 #### **GitHub Stats**
-![lotus64's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lotus64yt&show_icons=true&theme=radical&hide_border=true)
+![lotus64's GitHub Stats](https://github-readme-stats.sodiumlabs.xyz/api?username=lotus64yt&show_icons=true&theme=radical&hide_border=true)
 
 #### **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotus64yt&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=lotus64yt&layout=compact&theme=radical&hide_border=true)
 
 #### **WakaTime Coding Stats**
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lotus64&theme=radical&hide_border=true)
+![WakaTime](https://github-readme-stats.sodiumlabs.xyz/api/wakatime?username=lotus64&theme=radical&hide_border=true)
 
 ---
 
