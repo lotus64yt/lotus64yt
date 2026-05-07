@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Passionate about development, cybersecurity, and automation.</b>  
-  <br>Building innovative tools, Discord bots, and UI libraries.  
+  <br>Building innovative tools, Discord bots, and Website.  
   <br>Exploring hacking challenges & electronics projects.
 </p>
 
@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• *Concours Ninja*  
 &nbsp;&nbsp;&nbsp;&nbsp;• *Passe ton hall d'abord*  
 🔹 **Arduino** – Various IoT and security-related experiments.  
-🔹 **React & Web Dev** – Creator of [lmcgroup.xyz](https://lmcgroup.xyz).  
+🔹 **React & Web Dev** – Creator of [octara.xyz](https://octara.xyz), Co creator of [Orion Hosting](https://orionhost.xyz]
 🔹 **Minecraft Redstone** – Built an in-game calculator using Redstone circuits.  
 
 ---
@@ -27,6 +27,8 @@
 ### 💻 **Tech Stack & Skills**
 
 #### **Main Languages & Tools**
+
+![JavaScript](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
