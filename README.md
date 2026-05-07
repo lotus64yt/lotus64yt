@@ -42,7 +42,7 @@
 | **Expert**  | **Intermediate** | **Beginner**  |
 |------------|----------------|--------------|
 | JavaScript | TypeScript     | C++          |
-| Python     | SQL            |              |
+| Python     | SQL            | GO           |
 | React      | SQLite         |              |
 | MongoDB    |                |              |
 
